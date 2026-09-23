@@ -2,4 +2,7 @@ Milk
  Break
 Bananas
 Eggs
+chocolate
+popcorn
+bicycle
 
